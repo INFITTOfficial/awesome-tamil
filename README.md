@@ -99,7 +99,9 @@
 2. Meera Tamil - https://github.com/santhoshtr/meera-tamil
 3. Catamaran Tamil - https://github.com/VanillaandCream/Catamaran-Tamil
 4. Amma - https://github.com/mooniak/amma-font
-5. http://oss.neechalkaran.com/tamilfonts/
+5. நீச்சல்காரன் தமிழ் எழுத்துருக்கள் - http://oss.neechalkaran.com/tamilfonts/
+6. இராமசாமி துரைப்பாண்டி அவரது தமிழ் எழுத்துருக்கள் - https://github.com/ramasamy-duraipandy/tamil-unicode-fonts
+7. பேரா. இல. சுந்தரம் தமிழ் எழுத்துருக்கள் - கணியம் வழி - http://www.kaniyam.com/ila-sundaram-unicode-tamil-fonts/ http://www.kaniyam.com/download/ila-sundaram-unicode-tamil-fonts.zip
 
 # Encoding (எழுத்துரு மாற்றி) 
 1. txt2ipa - பைத்தான் - https://github.com/arulalant/txt2ipa
