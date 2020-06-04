@@ -29,11 +29,12 @@
 2. CRE-A இராகவ ஐய்யங்கார் வினைசொற்கள் / வினையடி - https://www.crea.in/verb-table 
 3. EMILLE-CIIL இந்தியமொழிகளுக்கான சொல்வங்கியில் தமிழுக்கு மட்டும் 1கோடி சொற்கள் உள்ளன. http://catalog.elra.info/en-us/repository/browse/ELRA-W0037/
 
-# AI/ML Datasets
+# AI/ML Datasets - ஆழக்கற்றல் முறை பயிற்சிக்கு பயன்படும் உரை/பட/ஒலி தரவுகள்
 1. Tamil New Corpus - 6500 articles - https://www.kaggle.com/disisbig/tamil-news-dataset
 2. Tamil Vowels Images - MNIST Compatible - https://github.com/Ezhil-Language-Foundation/acchu-tamilocr-dataset
 3. Tamil Loan Word Text dataset - https://www.kaggle.com/muthua/tamil-loan-words-classification
 4. Tamil Wikipedia Corpus - https://www.kaggle.com/disisbig/tamil-wikipedia-articles
+5. Mozilla Voice - தமிழில் ஒலி->உரை மாற்றி - https://voice.mozilla.org/ta
 
 # Wiktionary, Wikipedia - விக்கிபீடியாவை ஆய்வுசெய்ய உத்திகள்
 1. Korkai Corpus builder - Go - https://github.com/psankar/korkai
@@ -44,7 +45,7 @@
 # Madurai - மதுரைத்திட்டம் ஆய்வுசெய்ய உத்திகள்
 1. "மின் மதுரை" செயலி - https://github.com/Ezhil-Language-Foundation/MinMadurai
 
-# Spell Checker
+# Spell Checker - சொல்திருத்தி
 0. Language Tool - https://github.com/languagetool-org/languagetool
 1. Affix file/dictionary for Tamil for Hunspell - https://github.com/thamizha/thamizha-solthiruthi
 2. GNU Aspell dictionary for Tamil - https://ftp.gnu.org/gnu/aspell/dict/0index.html
@@ -58,12 +59,13 @@
 2. pystemmer/Snowball - தமிழுக்கும் தழுவப்பட்டது - https://github.com/snowballstem/pystemmer
 3. [1] இதன் சாரம் Open-Tamil-இலும் காணலாம். 
 
-# Parallel-Dictionaries
+# Parallel-Dictionaries - ஆங்கில-தமிழ் இணையான அகராதிகள்
 1. Open-Tamil 40,000 words English-Tamil - https://github.com/Ezhil-Language-Foundation/open-tamil/tree/5eb9fb1447fe021ca47e2cc4605f7111e6b1088f/solthiruthi/data
 2. English -> Tamil - https://github.com/sathia27/dictionary
 
-# Tamil Word Net
+# Tamil Word Net - தமிழ் சொல்பின்னல்
 1. AU-KBC, Tamil University Thanjavur -Java- http://www.au-kbc.org/nlp/TamilWordnet.tgz
+2. IIT-Bombay/CIFLT, TDIL Indic/Tamil Wordnet - https://tdil-dc.in/indowordnet/
 
 # Morphological Analysis - சொல்வடிவ பகுப்பாய்வு
 1. FST/Tamizhi-Morph - - https://github.com/sarves/thamizhi-morph
@@ -115,15 +117,15 @@
 3. Dhvani - https://github.com/tshrinivasan/dhvani-tts
 
 # ASR
-1. NA
+1. Mozilla Voice - தமிழில் ஒலி->உரை மாற்றி - https://voice.mozilla.org/ta
 
-# Programming Languages
+# Programming Languages - தமிழில் கணினி மொழிகள்
 1. Ezhil - http://github.com/Ezhil-Language-Foundation/ezhil-lang
 2. CLJ-Thamil - https://github.com/echeran/clj-thamil
 
 # இதர
-https://github.com/seekshiva/tamil-paa-thedal
-https://github.com/julienmalard/ennikkai/
+1. தமிழ் பா தேடல் - search on poetry- https://github.com/seekshiva/tamil-paa-thedal
+2. தமிழில் உள்ள எண்கள் எண்குறியீடுகள் பற்றிய - https://github.com/julienmalard/ennikkai/
 
 # பட்டியல்கள்
 1. த.இ.க மென்பொருள் பட்டியல் http://www.tamilvu.org/coresite/html/cwsoftlist.htm
