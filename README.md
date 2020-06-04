@@ -36,6 +36,7 @@
 3. Tamil Loan Word Text dataset - https://www.kaggle.com/muthua/tamil-loan-words-classification
 4. Tamil Wikipedia Corpus - https://www.kaggle.com/disisbig/tamil-wikipedia-articles
 5. Mozilla Voice - தமிழில் ஒலி->உரை மாற்றி - https://voice.mozilla.org/ta
+6. IARPA Babel Tamil Language Open KWS Dataset - 200hrs of voiced conversations + transcripts - https://catalog.ldc.upenn.edu/LDC2017S13
 
 # Wiktionary, Wikipedia - விக்கிபீடியாவை ஆய்வுசெய்ய உத்திகள்
 1. Korkai Corpus builder - Go - https://github.com/psankar/korkai
