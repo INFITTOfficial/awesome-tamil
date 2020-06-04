@@ -21,6 +21,8 @@
 6. Tamil VU dictionary - 65000+ words - https://github.com/rprabhu/TamilDictionary
 7. Palaniappa Bros. Dictionary - https://github.com/indic-dict/stardict-tamil
 8. Nigandiyam - Wiktionary - https://ta.wikisource.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D:%E0%AE%A8%E0%AE%BF%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D
+9. தமிழ்ப்புலவர் https://github.com/ramasamy-duraipandy/tamil-pulavar
+10. https://github.com/abuvanth/english-tamil-dictionary-api
 
 # Private Corpora - தனியார் சொல்வங்கி
 1. AU-KBC Chennai - Tamil research databases - http://www.au-kbc.org/nlp/lex_re.html, http://www.au-kbc.org/nlp/corpusrelease.html
@@ -38,6 +40,7 @@
 2. Tamil Wiktionary parser - Python/Qt - https://github.com/thamizha/tawiktionary-offline/
 3. Tamil Wiktionary parser - https://github.com/sathia27/e2t-dictionary/
 
+
 # Madurai - மதுரைத்திட்டம் ஆய்வுசெய்ய உத்திகள்
 1. "மின் மதுரை" செயலி - https://github.com/Ezhil-Language-Foundation/MinMadurai
 
@@ -47,7 +50,7 @@
 2. GNU Aspell dictionary for Tamil - https://ftp.gnu.org/gnu/aspell/dict/0index.html
 3. Solthiruthi @ Open-Tamil 
 
-# Sandhi Checker - சந்திப்பிழைத்திருத்தி
+# Sandhi Checker - சந்திப்பிழைதிருத்தி
 1. 40-சந்தி விதிகளை தமிழ் உரையில் திருத்தம் செய்ய -பைத்தான்- https://github.com/nithyadurai87/tamil-sandhi-checker
 
 # Stemmer - வேர்ச்சொல் பகுப்பாய்வு
@@ -88,6 +91,7 @@
 2. Meera Tamil - https://github.com/santhoshtr/meera-tamil
 3. Catamaran Tamil - https://github.com/VanillaandCream/Catamaran-Tamil
 4. Amma - https://github.com/mooniak/amma-font
+5. http://oss.neechalkaran.com/tamilfonts/
 
 # Encoding (எழுத்துரு மாற்றி) 
 1. txt2ipa - பைத்தான் - https://github.com/arulalant/txt2ipa
@@ -108,6 +112,7 @@
 # TTS
 1. Concatennative Synthesis on Diphones - https://github.com/sunnyglow/ThamizhPesi
 2. Concatennative Synthesis on Syllables - https://github.com/vasurenganathan/tamil-tts 
+3. Dhvani - https://github.com/tshrinivasan/dhvani-tts
 
 # ASR
 1. NA
@@ -116,8 +121,14 @@
 1. Ezhil - http://github.com/Ezhil-Language-Foundation/ezhil-lang
 2. CLJ-Thamil - https://github.com/echeran/clj-thamil
 
+# இதர
+https://github.com/seekshiva/tamil-paa-thedal
+https://github.com/julienmalard/ennikkai/
+
 # பட்டியல்கள்
 1. த.இ.க மென்பொருள் பட்டியல் http://www.tamilvu.org/coresite/html/cwsoftlist.htm
 2. கணியம் - https://github.com/KaniyamFoundation/awesome-tamil-nlp
 3. கொர்க்கை சங்கர் - https://github.com/psankar/TamilFOSS
-4. பழந்தமிழ் இலக்கியங்களில் தேட http://sangam.tamilnlp.com/mp/json/
+4. தங்கமணி அருண் - https://github.com/thangamani-arun/Tamil-NLP-Resources
+5. நீச்சல்காரன் http://oss.neechalkaran.com/tamilsoftwares
+6. பழந்தமிழ் இலக்கியங்களில் தேட http://sangam.tamilnlp.com/mp/json/
