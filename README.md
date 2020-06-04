@@ -86,7 +86,11 @@
 
 # Keyboard Manager
 1. eKalappai - C++ - https://github.com/thamizha/ekalappai
-2. NHM Wirter - https://indiclabs.in/products/writer/
+
+# Proprietary Keyboard Manager
+0. Murasu Anjal - http://anjal.net/murasu-anjal-muthal-edition/
+1. NHM Writer - https://indiclabs.in/products/writer/
+
 
 # Fonts (எழுத்துருக்கள்)
 1. Open-Source Tamil Fonts - https://github.com/thamizha/tamil-fonts
