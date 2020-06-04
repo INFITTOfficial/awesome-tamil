@@ -25,6 +25,7 @@
 10. https://github.com/abuvanth/english-tamil-dictionary-api
 
 # Private Corpora - தனியார் சொல்வங்கி
+0. Sketch Engine 2.6 கோடி சொற்கள் கொண்ட சொல்வங்கி https://www.sketchengine.eu/tawac-tamil-corpus/
 1. AU-KBC Chennai - Tamil research databases - http://www.au-kbc.org/nlp/lex_re.html, http://www.au-kbc.org/nlp/corpusrelease.html
 2. CRE-A இராகவ ஐய்யங்கார் வினைசொற்கள் / வினையடி - https://www.crea.in/verb-table 
 3. EMILLE-CIIL இந்தியமொழிகளுக்கான சொல்வங்கியில் தமிழுக்கு மட்டும் 1கோடி சொற்கள் உள்ளன. http://catalog.elra.info/en-us/repository/browse/ELRA-W0037/
