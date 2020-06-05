@@ -38,6 +38,10 @@
 5. Mozilla Voice - தமிழில் ஒலி->உரை மாற்றி - https://voice.mozilla.org/ta
 6. IARPA Babel Tamil Language Open KWS Dataset - 200hrs of voiced conversations + transcripts - https://catalog.ldc.upenn.edu/LDC2017S13
 
+# AI Models
+1. Ponniyin Selvan novel - text prediction - https://github.com/malaikannan/PonniyinSelvan_Nextchapter
+2. Tamil Vowels Images classification - MNIST Compatible - https://github.com/Ezhil-Language-Foundation/acchu-tamilocr-dataset
+
 # Wiktionary, Wikipedia - விக்கிபீடியாவை ஆய்வுசெய்ய உத்திகள்
 1. Korkai Corpus builder - Go - https://github.com/psankar/korkai
 2. Tamil Wiktionary parser - Python/Qt - https://github.com/thamizha/tawiktionary-offline/
