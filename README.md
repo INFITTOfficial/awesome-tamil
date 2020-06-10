@@ -129,6 +129,7 @@
 3. Dhvani - https://github.com/tshrinivasan/dhvani-tts
 
 # ASR
+0. Kaldi ASR - https://github.com/kaldi-asr/kaldi using IARPA BABEL dataset.
 1. Mozilla Voice - தமிழில் ஒலி->உரை மாற்றி - https://voice.mozilla.org/ta
 
 # Programming Languages - தமிழில் கணினி மொழிகள்
