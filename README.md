@@ -74,6 +74,7 @@
 2. IIT-Bombay/CIFLT, TDIL Indic/Tamil Wordnet - https://tdil-dc.in/indowordnet/
 
 # Morphological Analysis - சொல்வடிவ பகுப்பாய்வு
+0. TACOLA - Anna University - https://github.com/tacola-aucse/Morphological-Analyzer-For-Tamil
 1. FST/Tamizhi-Morph - - https://github.com/sarves/thamizhi-morph
 2. ML Morph - மலயாளம் சொல்வடிவ பகுப்பாய்வு - https://github.com/smc/mlmorph
 3. Polyglot - பைத்தான் - https://github.com/aboSamoor/polyglot 
@@ -111,12 +112,14 @@
 1. txt2ipa - பைத்தான் - https://github.com/arulalant/txt2ipa
 2. txt2unicode - பைத்தான் - https://github.com/arulalant/txt2unicode
 
-# Blogs/Tutorials - அறிமுக கட்டுரைகள்
+# Blogs/Tutorials - அறிமுக, ஆராய்ச்சி கட்டுரைகள்
 0. https://kaniyam.com
 1. https://nivedithakarmegam.wordpress.com/2019/03/31/text-preprocessing-tools-for-tamil-language/
 2. https://ezhillang.blog/category/tamil-nlp/
 3. https://goinggnu.wordpress.com
 4. https://indicnlp.org
+5. பேரா. சுபலலிதா - https://www.subalalitha.in/post/on-tamil-computing-research-experiences-part-1
+   - https://www.subalalitha.in/post/tamil-computing-research-experiences-part-2
 
 # OCR
 0. PDF2Text using Google OCR - https://github.com/KaniyamFoundation/Pdf2Text
