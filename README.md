@@ -120,6 +120,7 @@
 4. https://indicnlp.org
 5. பேரா. சுபலலிதா - https://www.subalalitha.in/post/on-tamil-computing-research-experiences-part-1
    - https://www.subalalitha.in/post/tamil-computing-research-experiences-part-2
+6. முனைவர். மதன் கார்கி - ஆராய்ச்சி அறக்கட்டளை - https://karky.in/karefo/
 
 # OCR
 0. PDF2Text using Google OCR - https://github.com/KaniyamFoundation/Pdf2Text
