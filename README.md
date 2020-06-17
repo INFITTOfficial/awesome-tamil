@@ -142,11 +142,13 @@
 2. CLJ-Thamil - https://github.com/echeran/clj-thamil
 
 # இதர
+0. தமிழ் இணைய கல்விக்கழகம் - த.இ.க. வலை - http://www.tamilvu.org/
 1. தமிழ் பா தேடல் - search on poetry- https://github.com/seekshiva/tamil-paa-thedal
 2. தமிழில் உள்ள எண்கள் எண்குறியீடுகள் பற்றிய - https://github.com/julienmalard/ennikkai/
 
 # பட்டியல்கள்
 1. த.இ.க மென்பொருள் பட்டியல் http://www.tamilvu.org/coresite/html/cwsoftlist.htm
+   --  தமிழ் இணைய கல்விக்கழகம் - த.இ.க. TSDF மென்பொருள் பட்டியல் - http://www.tamilvu.org/en/tsdf-html-cwlitsdfen-341286
 2. கணியம் - https://github.com/KaniyamFoundation/awesome-tamil-nlp
 3. கொர்க்கை சங்கர் - https://github.com/psankar/TamilFOSS
 4. தங்கமணி அருண் - https://github.com/thangamani-arun/Tamil-NLP-Resources
