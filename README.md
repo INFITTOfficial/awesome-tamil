@@ -56,6 +56,8 @@
 1. Affix file/dictionary for Tamil for Hunspell - https://github.com/thamizha/thamizha-solthiruthi
 2. GNU Aspell dictionary for Tamil - https://ftp.gnu.org/gnu/aspell/dict/0index.html
 3. Solthiruthi @ Open-Tamil 
+4. Hunspell - https://github.com/hunspell/hunspell
+5. Tamilinayavaani - github.com/tshrinivasan/Tamilinaiya-Spellchecker/
 
 # Sandhi Checker - சந்திப்பிழைதிருத்தி
 1. 40-சந்தி விதிகளை தமிழ் உரையில் திருத்தம் செய்ய -பைத்தான்- https://github.com/nithyadurai87/tamil-sandhi-checker
