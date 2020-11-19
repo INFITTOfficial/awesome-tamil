@@ -10,6 +10,7 @@
 5. தமிழ் parsing -Java- https://github.com/drajamanik/tamil
 6. தமிழ் parsing -Java- https://github.com/velsubra/Tamil
 7. Corpus creation tools - Ruby - https://github.com/mindaslab/tamil_corpus
+8. தமிழ் எண்கள்/எண் இலக்க வடிவங்களும், முறைமைகளும் - https://github.com/julienmalard/ennikkai
 
 # Corpus, Dictionaries - சொல்வங்கி, 
 1. Noun list from Kaniyam - https://github.com/KaniyamFoundation/all_tamil_nouns
