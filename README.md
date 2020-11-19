@@ -75,6 +75,7 @@
 # Tamil Word Net - தமிழ் சொல்பின்னல்
 1. AU-KBC, Tamil University Thanjavur -Java- http://www.au-kbc.org/nlp/TamilWordnet.tgz
 2. IIT-Bombay/CIFLT, TDIL Indic/Tamil Wordnet - https://tdil-dc.in/indowordnet/
+   Python Package - https://github.com/riteshpanjwani/pyiwn
 
 # Morphological Analysis - சொல்வடிவ பகுப்பாய்வு
 0. TACOLA - Anna University - https://github.com/tacola-aucse/Morphological-Analyzer-For-Tamil
