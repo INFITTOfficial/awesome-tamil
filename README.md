@@ -12,7 +12,7 @@
 7. தமிழ் parsing -Java- https://github.com/velsubra/Tamil
 8. Corpus creation tools - Ruby - https://github.com/mindaslab/tamil_corpus
 9. தமிழ் எண்கள்/எண் இலக்க வடிவங்களும், முறைமைகளும் - https://github.com/julienmalard/ennikkai
-
+10. Stanza - Stanford பல்கலைக்கழகத்தில் இருந்து வெளியிடப்பட்ட நிரல் தொகுப்பு - https://stanfordnlp.github.io/stanza/ (தமிழிலும் இயல்மொழி பகுப்பாய்வு வேலைகளைக்கையாள உதவுகிறது)
 # Corpus, Dictionaries - சொல்வங்கி, 
 1. Noun list from Kaniyam - https://github.com/KaniyamFoundation/all_tamil_nouns
    Word list - https://github.com/KaniyamFoundation/all_tamil_words
