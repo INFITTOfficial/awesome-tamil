@@ -45,6 +45,8 @@
 8. UTSC Digital Tamil Scholarship archive - https://github.com/Digital-Tamil-Studies/open_tamil_texts
 9. Handwriting letter recognition AI for Tamil - using HP dataset - https://github.com/RanchMobile/Tamil-AI
 10. Dravidian Code Mix, additional task datasets by Barathiraja Ashoka Chakravathi - https://github.com/bharathichezhiyan?tab=repositories
+11. NLP for Tamil - https://github.com/goru001/nlp-for-tamil
+
 
 # AI Models
 1. Ponniyin Selvan novel - text prediction - https://github.com/malaikannan/PonniyinSelvan_Nextchapter
