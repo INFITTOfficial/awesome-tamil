@@ -46,6 +46,8 @@
 9. Handwriting letter recognition AI for Tamil - using HP dataset - https://github.com/RanchMobile/Tamil-AI
 10. Dravidian Code Mix, additional task datasets by Barathiraja Ashoka Chakravathi - https://github.com/bharathichezhiyan?tab=repositories
 11. NLP for Tamil - https://github.com/goru001/nlp-for-tamil
+12. IISc-MILE Tamil ASR Corpus open-sourced by IISc (Prof. A. G. Ramakrishnan MILE lab) http://openslr.org/127/
+13. Crowdsourced high-quality Tamil multi-speaker speech data set - http://openslr.org/65/
 
 
 # AI Models
