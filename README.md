@@ -31,7 +31,8 @@
 13. An English-Tamil parallel corpus (2013) - Dr. Ramasamy Loganathan - EnTam - (They have collected English-Tamil bilingual data from some of the publicly available websites for NLP research involving Tamil.The parallel corpora cover texts from bible, cinema and news domains); Get data: http://ufal.mff.cuni.cz/~ramasamy/parallel/html/ 
 14. Tamil Dependency Treebank  (TamilTB) is an attempt to develop a syntactically annotated corpora for Tamil. TamilTB contains 600 sentences enriched with manual annotation of morphology and dependency syntax in the style of Prague Dependency Treebank. Get data: http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/
 15. Amazon, Inc. Alexa MASSIVE dataset for 51 languages including Tamil - https://github.com/alexa/massive
-
+16. Aya Dataset for Tamil  <https://huggingface.co/datasets/CohereForAI/aya_collection> (Cohere AI) with Tamil contributions  by Nunnari Labs CTO Abhinaya Mahendiran
+ 
 # Private Corpora - தனியார் சொல்வங்கி
 0. Sketch Engine 2.6 கோடி சொற்கள் கொண்ட சொல்வங்கி https://www.sketchengine.eu/tawac-tamil-corpus/
 1. AU-KBC Chennai - Tamil research databases - http://www.au-kbc.org/nlp/lex_re.html, http://www.au-kbc.org/nlp/corpusrelease.html
