@@ -132,6 +132,8 @@
 5. நீச்சல்காரன் தமிழ் எழுத்துருக்கள் - http://oss.neechalkaran.com/tamilfonts/
 6. இராமசாமி துரைப்பாண்டி அவரது தமிழ் எழுத்துருக்கள் - https://github.com/ramasamy-duraipandy/tamil-unicode-fonts
 7. பேரா. இல. சுந்தரம் தமிழ் எழுத்துருக்கள் - கணியம் வழி - http://www.kaniyam.com/ila-sundaram-unicode-tamil-fonts/ http://www.kaniyam.com/download/ila-sundaram-unicode-tamil-fonts.zip
+8. வள்ளுவர் வள்ளலார் வட்டத்தின் புதிய தமிழ் எழுத்துருக்கள் இப்போது இணைக்கப்பட்டுள்ளன. https://oss.neechalkaran.com/tamilfonts/ காண்க : Neechalkaran/status/1769383443044220934/photo/1![image](https://github.com/INFITTOfficial/awesome-tamil/assets/3316245/7d22f469-73be-4038-befa-ddca47102e65)
+
 
 # Encoding (எழுத்துரு மாற்றி)
 1. txt2ipa - பைத்தான் - https://github.com/arulalant/txt2ipa
