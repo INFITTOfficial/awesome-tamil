@@ -15,6 +15,7 @@
 10. Stanza - Stanford பல்கலைக்கழகத்தில் இருந்து வெளியிடப்பட்ட நிரல் தொகுப்பு - https://stanfordnlp.github.io/stanza/ (தமிழிலும் இயல்மொழி பகுப்பாய்வு வேலைகளைக்கையாள உதவுகிறது)
 11. அனிச்சம் Java -  https://github.com/MannarAmuthan/Anicham
 12. அனிச்சம் பைத்தன் -  https://github.com/MannarAmuthan/anicham.py
+13. நீச்சல்காரன் அவரது "vaaninlp" - https://pypi.org/project/VaaniNLP/ மற்றும் - https://github.com/neechalkaran/VaaniNLP
 # Corpus, Dictionaries - சொல்வங்கி,
 1. Noun list from Kaniyam - https://github.com/KaniyamFoundation/all_tamil_nouns
    Word list - https://github.com/KaniyamFoundation/all_tamil_words
