@@ -155,6 +155,7 @@
 0. PDF2Text using Google OCR - https://github.com/KaniyamFoundation/Pdf2Text
 1. Tesseract for Tamil GUI - https://github.com/Parathantl/tesseract_gui
 2. Tesseract based OCR API - https://github.com/neechalkaran/OCR
+3. OCR Tamil - Deep learning based OCR library in Python - https://github.com/gnana70/tamil_ocr
 
 # TTS
 1. Concatennative Synthesis on Diphones - https://github.com/sunnyglow/ThamizhPesi
